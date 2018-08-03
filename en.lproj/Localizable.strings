@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Detectnum
+
+  Created by Harley on 19/8/17.
+  Copyright © 2017年 Steven. All rights reserved.
+*/
+"contact"="About Us";
+"detect"="Detect watermark";
+"hdu"="HDU";
+"imagelab"=" Imagelab";
+"back"="back";
+"detectwa"="Detect";
